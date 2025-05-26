@@ -3,8 +3,8 @@ The core of the model is an Artificial Neural Network (ANN), known for its abili
 The dataset we used, simplified_dataset.csv, is based on real-world clinical records and includes several health indicators relevant to breast cancer diagnosis.
 REFERENCE:
 
-Dataset: https://www.kaggle.com/datasets?search=breast+cancer
-Google Dataset Search: https://datasetsearch.research.google.com 
-TensorFlow and Keras Documentation – https://www.tensorflow.org/
-Genetic Algorithm Python Library :https://pypi.org/project/geneticalgorithm/
+Dataset: https://www.kaggle.com/datasets?search=breast+cancer.
+Google Dataset Search: https://datasetsearch.research.google.com .
+TensorFlow and Keras Documentation – https://www.tensorflow.org/.
+Genetic Algorithm Python Library :https://pypi.org/project/geneticalgorithm/.
 
