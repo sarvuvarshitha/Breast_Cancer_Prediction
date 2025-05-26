@@ -1,4 +1,4 @@
-Here is a precise and well-structured `README.md` file content that you can upload to your GitHub repository for the project:
+
 
 ---
 
@@ -96,7 +96,8 @@ The **Genetic Algorithm (GA)** is used to automatically select the most relevant
 ## 📫 Contact
 
 For questions or contributions, feel free to open an issue or pull request.
+sarvuvarshitha@gmail.com
 
 ---
 
-Let me know if you'd like to add screenshots, model performance metrics, or example predictions to the README as well.
+
